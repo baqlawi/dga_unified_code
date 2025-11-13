@@ -39,8 +39,38 @@ namespace dga_unified_code.Controllers
         {
             return View();
         }
-
-
-
+        public IActionResult SearchPageEnRows()
+        {
+            return View();
+        }
+        public IActionResult SearchPageEnCards()
+        {
+            return View();
+        }
+        public IActionResult FAQsEn()
+        {
+            return View();
+        }
+        public IActionResult FAQsAr()
+        {
+            return View();
+        }
+        public IActionResult SiteMapPageEn()
+        {
+            return View();
+        }
+        public IActionResult SiteMapPageAr()
+        {
+            return View();
+        }
+        public IActionResult ContentPageEn()
+        {
+            return View();
+        }
+        public IActionResult ContentPageAr()
+        {
+            return View();
+        }
+        
     }
 }
