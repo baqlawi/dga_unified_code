@@ -13,10 +13,6 @@ namespace dga_unified_code.Controllers
         {
             return View();
         }
-        public IActionResult SNDHTML()
-        {
-            return View();
-        }
         public IActionResult SND2()
         {
             return View();

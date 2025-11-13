@@ -6,8 +6,8 @@
     <title>@ViewData["Title"] - dga_unified_code</title>
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/output.css" asp-append-version="true" />
-    @* <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> *@
+    @* <link rel="stylesheet" href="~/css/output.css" asp-append-version="true" /> *@
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     @* <link rel="stylesheet" href="~/dga_unified_code.styles.css" asp-append-version="true" /> *@
     @* <link rel="stylesheet" href="./styles.css" /> *@
     @* <link rel="stylesheet" href="https://use.hugeicons.com/font/icons.css" /> *@
@@ -49,11 +49,11 @@
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    @* <div class="container"> *@
+        @* <main role="main" class="pb-3"> *@
             @RenderBody()
-        </main>
-    </div>
+        @* </main> *@
+    @* </div> *@
 
     <footer class="border-top footer text-muted">
         <div class="container">
