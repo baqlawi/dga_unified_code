@@ -38,6 +38,38 @@ namespace dga_unified_code.Controllers
         {
             return View();
         }
+        public IActionResult Home_Footer()
+        {
+            return View();
+        }
+        public IActionResult Home_FooterAr()
+        {
+            return View();
+        }
+        public IActionResult Home_Hero()
+        {
+            return View();
+        }
+        public IActionResult Home_HeroAr()
+        {
+            return View();
+        }
+        public IActionResult Home_Cards()
+        {
+            return View();
+        }
+        public IActionResult Home_NewsCards()
+        {
+            return View();
+        }
+        public IActionResult FeedbackDesktop()
+        {
+            return View();
+        }
+        public IActionResult Feedback()
+        {
+            return View();
+        }
 
         
     }
