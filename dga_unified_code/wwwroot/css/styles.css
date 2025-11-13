@@ -1,0 +1,914 @@
+﻿// كيف تتحقق؟
+color: var(--Link-link-primary, #1B8354);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// موقع حكومي مسجل لدى هيئة الحكومة الرقمية
+color: var(--Text-text-default, #161616);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+---
+// تسجيل الدخول
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// English
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// البحث
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 7
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 6
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 5
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 4
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 3
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 2
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// تبويب 1
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 20px;
+word-wrap: break-word
+---
+// اليوم الوطني السعودي 95
+color: var(--Text-text-oncolor-primary, white);
+font-size: 60px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 600;
+line-height: 72px;
+word-wrap: break-word
+---
+// نحتفي بمرور 95 عامًا من العز والفخر لوطننا
+color: var(--Text-text-oncolor-primary, white);
+font-size: 20px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 30px;
+word-wrap: break-word
+---
+// قسم من نحن
+color: var(--Text-text-default, #161616);
+font-size: 30px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 38px;
+word-wrap: break-word
+---
+// هنا يمكنك إضافة وصف مختصر حول الغرض من البوابة متبوعًا بزر الحث على اتخاذ إجراء وصورة أو رسم توضيحي على الجانب الأيسر.
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// 1.5M
+color: var(--Text-text-primary-sa-flag, #14573A);
+font-size: 48px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 60px;
+word-wrap: break-word
+---
+// شخص
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// 1.5M
+color: var(--Text-text-primary-sa-flag, #14573A);
+font-size: 48px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 60px;
+word-wrap: break-word
+---
+// شخص
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// 1.5M
+color: var(--Text-text-primary-sa-flag, #14573A);
+font-size: 48px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 60px;
+word-wrap: break-word
+---
+// شخص
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// 1.5M
+color: var(--Text-text-primary-sa-flag, #14573A);
+font-size: 48px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 60px;
+word-wrap: break-word
+---
+// شخص
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// عرض الكل
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// قسم الخدمات
+color: var(--Text-text-default, #161616);
+font-size: 30px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 38px;
+word-wrap: break-word
+---
+// هنا يمكنك إضافة وصف مختصر حول الغرض من البوابة متبوعًا بزر الحث على اتخاذ إجراء وصورة أو رسم توضيحي على الجانب الأيسر.
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// نص إضافي لمحتوى البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-success, #085D3A);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-info, #1849A9);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-neutral, #1F2A37);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// اجراء
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// اجراء ثانوي
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// نص إضافي لمحتوى البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-success, #085D3A);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-info, #1849A9);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-neutral, #1F2A37);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// اجراء
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// اجراء ثانوي
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// نص إضافي لمحتوى البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-success, #085D3A);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-info, #1849A9);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-neutral, #1F2A37);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// اجراء
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// اجراء ثانوي
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// نص إضافي لمحتوى البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-success, #085D3A);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-info, #1849A9);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-neutral, #1F2A37);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// اجراء
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// اجراء ثانوي
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// نص إضافي لمحتوى البطاقة
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-success, #085D3A);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-info, #1849A9);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// وسم
+color: var(--Tag-tag-text-neutral, #1F2A37);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// اجراء
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// اجراء ثانوي
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عرض الكل
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// قسم الاخبار والمقالات
+color: var(--Text-text-default, #161616);
+font-size: 30px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 38px;
+word-wrap: break-word
+---
+// هنا يمكنك إضافة وصف مختصر حول الغرض من البوابة.
+color: var(--Text-text-default, #161616);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان بطاقة الأخبار في سطرين
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر. هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر.
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// قراءة المزيد
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان بطاقة الأخبار في سطرين
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر. هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر.
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// قراءة المزيد
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// عنوان بطاقة الأخبار في سطرين
+color: var(--Text-text-display, #1F2A37);
+font-size: 18px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 28px;
+word-wrap: break-word
+---
+// هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر. هنا يمكنك تضمين وصف موجز للعنوان في أربعة أسطر.
+color: var(--Text-text-display, #1F2A37);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+---
+// قراءة المزيد
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// قسم الشركاء
+color: var(--Text-text-default, #161616);
+font-size: 30px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 700;
+line-height: 38px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// تاريخ آخر تعديل: 04/12/2025 - 4:13 م بتوقيت السعودية
+color: var(--Text-text-default, #161616);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// تابعنا على
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// أدوات الاتاحة والوصول
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// الاتصال والدعم
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// مركز العملاء
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// تواصل معنا
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// شارك معنا
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// تقديم شكوى
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// الإبلاغ عن الفساد
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// روابط مهمة
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// بوابة الخدمة الوطنية
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// البيانات الحكومية المفتوحة
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// الاستراتيجية الوطنية للبيانات والذكاء الاصطناعي
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// بوابة البيانات المفتوحة
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// بوابة المشاركة الإلكترونية
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// ملخص
+color: var(--Text-text-oncolor-primary, white);
+font-size: 16px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 24px;
+word-wrap: break-word
+---
+// حول [اسم البوابة]
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// الخصوصية وشروط الاستخدام
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// كيفية استخدام [اسم البوابة]
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// الأخبار والأحداث
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// إحصائيات اتفاقية مستوى الخدمة
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// شعار المنصة
+color: var(--Text-text-secondary-paragraph, #6C737F);
+font-size: 12px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+---
+// تطبيق الجوال
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+text-decoration: underline;
+line-height: 20px;
+word-wrap: break-word
+---
+// RSS
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+text-decoration: underline;
+line-height: 20px;
+word-wrap: break-word
+---
+// خريطة الموقع
+color: var(--Link-link-oncolor, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+text-decoration: underline;
+line-height: 20px;
+word-wrap: break-word
+---
+// جميع الحقوق محفوظة لهيئة الحكومة الرقمية © 2024
+color: var(--Text-text-oncolor-primary, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 600;
+line-height: 20px;
+word-wrap: break-word
+---
+// تم تطويره وصيانته بواسطة [أدخل اسم الجهة]
+color: var(--Text-text-oncolor-primary, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word
+---
+// تاريخ آخر تعديل: 04/12/2020
+color: var(--Text-text-oncolor-primary, white);
+font-size: 14px;
+font-family: IBM Plex Sans Arabic;
+font-weight: 400;
+line-height: 20px;
+word-wrap: break-word

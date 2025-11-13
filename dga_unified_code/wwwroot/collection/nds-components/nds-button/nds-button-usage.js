@@ -1,0 +1,21 @@
+import { h } from "@stencil/core";
+export class NdsButtonUsage {
+    constructor() {
+        this.variant = 'neutral';
+    }
+    render() {
+        return (h("div", { key: '9d72afed6f47dbdabe3de3198ec6b50fda780df1' }, h("h1", { key: '1586df2893860398701194cdc3454fadcde24635' }, "Button Example"), h("div", { key: 'f4c889cf98ace53bf2b8c401410fb94fa834bd64', style: { padding: '50px', display: 'flex', gap: '20px' } }, h("div", { key: '2202edd822a8123ec98b85a382c82025b9107085', style: { display: 'flex', flexDirection: 'column', gap: '20px' } }, h("dga-flex", { key: '63ca77827f44a0b5120303a36a1131fd08b830c8', direction: "column", spacing: 16 }, h("dga-button-v2", { key: '205ba4e05801e4cf92114f5274e3564f7387e4c1', label: "Button", variant: "primary", size: "lg" }), h("dga-button-v2", { key: '6666414ac274745ac2878fb8224981d07baa1262', label: "Button", variant: "primary", size: "md" }), h("dga-button-v2", { key: '01ef2efc7c47082470ff7ca904086725a6417264', label: "Button", variant: "primary", size: "sm" }), h("dga-button-v2", { key: '11d6b1586cef453c7c6fd0bfbaf99a3cfc16ece2', label: "Button", variant: "neutral", size: "lg" }), h("dga-button-v2", { key: 'a30cda46bdfb44a101b2a05cb3c547f464193a48', label: "Button", variant: "neutral", size: "md" }), h("dga-button-v2", { key: '00ae17e4a0174fc9593cda29f602f1ca0fe7fbb9', label: "Button", variant: "neutral", size: "sm" }), h("dga-button-v2", { key: 'e0848a75c900751e2474554f21b544da2cc18039', label: "Button", variant: "secondary-solid", size: "lg" }), h("dga-button-v2", { key: '3a0ae5e4ecfcd12022e8cdbcd7786e99da2e7962', label: "Button", variant: "secondary-solid", size: "md" }), h("dga-button-v2", { key: '796e249a0e6fd3cb6d12fc3f86953806bf7a99ad', label: "Button", variant: "secondary-solid", size: "sm" }), h("dga-button-v2", { key: 'c5849de610a1a1d6db6f9c1962ba4382cfdc921c', label: "Button", variant: "primary", destructive: true, size: "lg" }), h("dga-button-v2", { key: '14aaa2d4c7f413f4b0976dd0bfa7fdd2fdf5382b', label: "Button", variant: "primary", destructive: true, size: "md" }), h("dga-button-v2", { key: '3056cc6c0fdf76c009b4aed5c949b50331b49435', label: "Button", variant: "primary", destructive: true, size: "sm" })), h("dga-button-v2", { key: '246f1bee86a4d88ff6b3e72ca0e1e025b17207ba', label: "Button", variant: "primary", onColor: true }, h("dga-button-leading-icon", { key: '0d99596c9843bbaee2859123e94c2bd30a51b11e', name: "link-square-01", size: 16, color: "red" })), h("dga-button-v2", { key: '4dd252e6600f37392a0af4c3f314f70fd626513a', label: "Source code", variant: "secondary-outline", leadIcon: true, leadIconProps: { name: 'source-code', variant: 'stroke', type: 'standard' } }), h("dga-button-v2", { key: 'e4d66eb34e7ae60a744847e7698945b93a61f8ee',
+            // className="absolute top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100"
+            label: "See live preview", size: "lg", variant: "secondary-outline", trailIcon: true, trailIconProps: {
+                name: 'link-square-01',
+                variant: 'stroke',
+                type: 'standard',
+            } })), h("div", { key: 'cdd280be9dfd4e7478c8dc5045c9e94ab8d825b6', style: { display: 'flex', flexDirection: 'column', gap: '20px', backgroundColor: '#074D31', padding: '20px' } }, h("nds-button", { key: 'c3f34667496a3751e04013d6b9ba0cb0f017a2dc', label: "Button", variant: "primary-brand", size: "lg" }), h("nds-button", { key: '8d3d62f46e5eead872e934c8574d65253473cc37', label: "Button", variant: "primary-brand", size: "lg", selected: true }), h("nds-button", { key: '2f3c333e015d07a8c5b8dc7fea6b0236813e91d7', leadingIcon: 'link-square-01', size: 'sm' }, h("dga-icon-v2", { key: 'd963f4a034a370e8f65088dbe6dd08f28e2f62ff', slot: 'leading-icon', name: 'source-code', variant: 'stroke', type: 'rounded', size: 16, color: 'white' }))), h("dga-icon-v2", { key: '4c1fa4b714712e53a2efe3ed573ac6c68503feb7', name: 'link-square-01', variant: 'stroke', type: 'rounded', color: 'red' }), h("div", { key: '5fab3766bbec7b4ce52f3d68f9fe4f31b091cfed', style: { display: 'flex', flexDirection: 'column', gap: '20px' } }))));
+    }
+    static get is() { return "nds-button-usage"; }
+    static get states() {
+        return {
+            "variant": {}
+        };
+    }
+}
