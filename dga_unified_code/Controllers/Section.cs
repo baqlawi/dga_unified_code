@@ -8,5 +8,37 @@ namespace dga_unified_code.Controllers
         {
             return View();
         }
+
+        
+        public IActionResult SND_Hero1()
+        {
+            return View();
+        }
+        public IActionResult SND_HeroAr()
+        {
+            return View();
+        }
+        public IActionResult SND_Hero2()
+        {
+            return View();
+        }
+        public IActionResult SND_Footer()
+        {
+            return View();
+        }
+        public IActionResult SND_Footer2()
+        {
+            return View();
+        }
+        public IActionResult SND_Footer3()
+        {
+            return View();
+        }
+        public IActionResult SND_Footer4()
+        {
+            return View();
+        }
+
+        
     }
 }
