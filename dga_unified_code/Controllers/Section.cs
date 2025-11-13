@@ -38,6 +38,42 @@ namespace dga_unified_code.Controllers
         {
             return View();
         }
+        public IActionResult CookiesEn()
+        {
+            return View();
+        }
+        public IActionResult CookiesAr()
+        {
+            return View();
+        }
+        public IActionResult ManageCookiesEn()
+        {
+            return View();
+        }
+        public IActionResult ManageCookiesAr()
+        {
+            return View();
+        }
+        public IActionResult MessageCookiesEn()
+        {
+            return View();
+        }
+        public IActionResult MessageCookiesAr()
+        {
+            return View();
+        }
+        public IActionResult ChatBotEn()
+        {
+            return View();
+        }
+        public IActionResult ChatBotAr()
+        {
+            return View();
+        }
+        public IActionResult FloatingButton()
+        {
+            return View();
+        }
         public IActionResult Home_Footer()
         {
             return View();
