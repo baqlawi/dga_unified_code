@@ -1,6 +1,7 @@
 ﻿@font-face {
     font-family: IBMPlexSans-Regular;
-    src: url(https://ksau-hs.edu.sa/_catalogs/masterpage/NewKSAUPortal/assets/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Regular.woff2)format("woff2");
+    font-family: IBM Plex Sans Arabic;
+    src: url(../fonts/IBMPlexSansArabic-Regular.woff2)format("woff2");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -8,7 +9,7 @@
 
 @font-face {
     font-family: IBMPlexSans-Medium;
-    src: url(https://ksau-hs.edu.sa/_catalogs/masterpage/NewKSAUPortal/assets/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Medium.woff2)format("woff2");
+    src: url(../fonts/IBMPlexSansArabic-Medium.woff2)format("woff2");
     font-weight: 500;
     font-style: normal;
     font-display: swap
@@ -16,7 +17,7 @@
 
 @font-face {
     font-family: IBMPlexSans-SemiBold;
-    src: url(https://ksau-hs.edu.sa/_catalogs/masterpage/NewKSAUPortal/assets/fonts/IBMPlexSansArabic/IBMPlexSansArabic-SemiBold.woff2)format("woff2");
+    src: url(../fonts/IBMPlexSansArabic-SemiBold.woff2)format("woff2");
     font-weight: 600;
     font-style: normal;
     font-display: swap
@@ -24,7 +25,7 @@
 
 @font-face {
     font-family: IBMPlexSans-Bold;
-    src: url(https://ksau-hs.edu.sa/_catalogs/masterpage/NewKSAUPortal/assets/fonts/IBMPlexSansArabic/IBMPlexSansArabic-Bold.woff2)format("woff2");
+    src: url(../fonts/IBMPlexSansArabic-Bold.woff2)format("woff2");
     font-weight: 700;
     font-style: normal;
     font-display: swap

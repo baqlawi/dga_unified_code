@@ -15,6 +15,7 @@ namespace dga_unified_code.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.isHomePage = true;
             return View();
         }
 
