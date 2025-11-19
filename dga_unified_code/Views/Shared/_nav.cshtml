@@ -1,32 +1,12 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-    // Layout = "";
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
 }
+<h2>Pages</h2>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
 
-<style>
-    .navbar-nav {
-        display: flex;
-        gap:1rem;
-
-        .nav-item {
-            padding: 5rem;
-            background: lightgray;
-            border-radius: 8px;
-            box-shadow: 0 0 5px rgb(0 0 0 /0.5);
-
-            &:hover{
-                background: gray;
-            }
-        }
-
-    }
-
-    </style>
-<div class="d-grid justify-content-between" style="height: 100vh">
-<partial name="../Shared/_nav"/>
-</div>
-
-@* <h2>Pages</h2>
+    <div class="container-fluid">
 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
     <ul class="navbar-nav flex-grow-1">
 
@@ -214,85 +194,89 @@
         </li>
     </ul>
 </div>
-
+</div>
+</nav>
 
 <h1>Sections</h1>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
 
+    <div class="container-fluid">
+<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+    <ul class="navbar-nav flex-grow-1">
 
-        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-            <ul class="navbar-nav flex-grow-1">
-
-                 <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Hero1">SND_Hero1</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_HeroAr">SND_HeroAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Hero2">SND_Hero2</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer">SND_Footer</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer2">SND_Footer2</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer3">SND_Footer3</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer4">SND_Footer4</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="CookiesEn">CookiesEn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="CookiesAr">CookiesAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ManageCookiesEn">ManageCookiesEn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ManageCookiesAr">ManageCookiesAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="MessageCookiesEn">MessageCookiesEn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="MessageCookiesAr">MessageCookiesAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ChatBotEn">ChatBotEn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ChatBotAr">ChatBotAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="FloatingButton">FloatingButton</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Footer">Home_Footer</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_FooterAr">Home_FooterAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Hero">Home_Hero</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_HeroAr">Home_HeroAr</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Cards">Home_Cards</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_NewsCards">Home_NewsCards</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="FeedbackDesktop">FeedbackDesktop</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Feedback">Feedback</a>
-                </li>
-            </ul>
-        </div> *@
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Hero1">SND_Hero1</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_HeroAr">SND_HeroAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Hero2">SND_Hero2</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer">SND_Footer</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer2">SND_Footer2</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer3">SND_Footer3</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="SND_Footer4">SND_Footer4</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="CookiesEn">CookiesEn</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="CookiesAr">CookiesAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ManageCookiesEn">ManageCookiesEn</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ManageCookiesAr">ManageCookiesAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="MessageCookiesEn">MessageCookiesEn</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="MessageCookiesAr">MessageCookiesAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ChatBotEn">ChatBotEn</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="ChatBotAr">ChatBotAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="FloatingButton">FloatingButton</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Footer">Home_Footer</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_FooterAr">Home_FooterAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Hero">Home_Hero</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_HeroAr">Home_HeroAr</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_Cards">Home_Cards</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Home_NewsCards">Home_NewsCards</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="FeedbackDesktop">FeedbackDesktop</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Section" asp-action="Feedback">Feedback</a>
+        </li>
+    </ul>
+</div>
+</div>
+</nav>
